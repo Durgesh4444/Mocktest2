@@ -2,7 +2,7 @@
 
 ### Answer 🚀
 
-```html
+```javascript
 <!DOCTYPE html>
 <html>
   <head>
